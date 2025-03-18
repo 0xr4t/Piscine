@@ -27,7 +27,7 @@ Ce projet est une application basée sur JavaScript et TypeScript, utilisant des
 ## 📖 Utilisation
 
 - L'application utilise des fichiers JSON pour gérer les entités du jeu.
-- Les scripts `character.js` et `character.ts` semblent être les fichiers principaux pour la gestion des personnages.
+- Les scripts `character.js` et `character.ts` sont les fichiers principaux pour la gestion des personnages.
 
 ## 🤝 Contribuer
 
